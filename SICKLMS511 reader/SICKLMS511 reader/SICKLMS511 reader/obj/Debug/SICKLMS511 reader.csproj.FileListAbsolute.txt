@@ -1,0 +1,55 @@
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe.config
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.pdb
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKwork.dll
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICK_Communication.dll
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICK_FileManagement.dll
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICK_LMS5xx-PRO_Library.dll
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csprojResolveAssemblyReference.cache
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Form1.resources
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Properties.Resources.resources
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.GenerateResource.Cache
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.exe
+C:\Users\SmartRaysam\Documents\Visual Studio 2015\Projects\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.pdb
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe.config
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.pdb
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csprojAssemblyReference.cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Form1.resources
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Properties.Resources.resources
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.GenerateResource.cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.CoreCompileInputs.cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.CopyComplete
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.exe
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.pdb
+C:\Users\Admin\Downloads\project\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe.config
+C:\Users\Admin\Downloads\project\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.exe
+C:\Users\Admin\Downloads\project\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.pdb
+C:\Users\Admin\Downloads\project\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe
+C:\Users\Admin\Downloads\project\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.pdb
+C:\Users\Admin\Downloads\project\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\project\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Form1.resources
+C:\Users\Admin\Downloads\project\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Properties.Resources.resources
+C:\Users\Admin\Downloads\project\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.GenerateResource.Cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe.config
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.pdb
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csprojAssemblyReference.cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Form1.resources
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Properties.Resources.resources
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.GenerateResource.cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.CoreCompileInputs.cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.CopyComplete
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.exe
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader (6)\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.pdb
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csprojAssemblyReference.cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Form1.resources
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511_reader.Properties.Resources.resources
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.GenerateResource.cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.CoreCompileInputs.cache
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.exe
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.pdb
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe.config
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.exe
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\bin\Debug\SICKLMS511 reader.pdb
+D:\USER DOKUMENTI\Desktop\SICKLMS511 reader\SICKLMS511 reader\SICKLMS511 reader\obj\Debug\SICKLMS511 reader.csproj.CopyComplete
